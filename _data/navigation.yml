@@ -48,3 +48,6 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - title:      Github
+    url:        https://github.com/krisnailafat/krisnailafat.github.io
