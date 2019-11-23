@@ -300,10 +300,6 @@ Copyright (c) 2012 Dan Eden
     animation-name: bounceInDown;
 }
 
-
-
-
-
 /*------------------------------------*\
     $MOBILE
 \*------------------------------------*/
@@ -322,4 +318,20 @@ Copyright (c) 2012 Dan Eden
     .content {
         width: 100%;
     }
+
+    
+}
+
+.btn {
+ border: 1px solid rgba(185, 246, 202,0.7) ;
+ border-radius: 3px;
+padding: 10px 30px;
+color : #43a047;
+text-decoration: none;
+transition: 0.6s ease;
+}
+
+.btn:hover{
+background-color: rgba(185, 246, 202,0.7);
+color :#D4424D;
 }
